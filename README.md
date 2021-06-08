@@ -7,4 +7,4 @@ This Github page is currently a work under progress and will be updated by end o
 ## Download Link:
 
 Currently the dataset files are available only on a per-request basis. 
-If you are interested, please email Nabajeet Barman (n.barman@kingston.ac.uk, h2o.is.water@gmail.com) to obtain the link to download the dataset.
+If you are interested, please email Nabajeet Barman (n.barman@kingston.ac.uk, h2o.is.water@gmail.com) to obtain the link and password to download the dataset.
