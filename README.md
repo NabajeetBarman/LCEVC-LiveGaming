@@ -4,8 +4,12 @@ With the increasing advancements in video compression efficiency achieved by new
 
 ## Download Link:
 
-Currently the dataset files are available only on a per-request basis. 
+The dataset is available on a per-request basis. 
 If you are interested, please email Nabajeet Barman (nabajeetbarman4@gmail.com, h2o.is.water@gmail.com) to obtain the link and password to download the dataset.
+
+## Authors
+
+Nabajeet Barman, Steven Schmidt, Saman Zadtootaghaj, Maria Martini and Sebastian Moeller.
 
 ## Acknowledgement
 
