@@ -9,7 +9,10 @@ If you are interested, please email Nabajeet Barman (nabajeetbarman4@gmail.com, 
 
 ## Authors
 
-Nabajeet Barman, Steven Schmidt, Saman Zadtootaghaj and Maria Martini.
+- Nabajeet Barman, Kingston University
+- Steven Schmidt, TU Berlin
+- Saman Zadtootaghaj, TU Berlin
+- Maria Martini, Kingston University
 
 ## Acknowledgement
 
