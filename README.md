@@ -14,6 +14,13 @@ If you are interested, please email Nabajeet Barman (nabajeetbarman4@gmail.com, 
 - Saman Zadtootaghaj, TU Berlin
 - Maria Martini, Kingston University
 
+## Citation
+
+If you found this work useful and use it in your work, please cite the following paper and add a link to this repository in your work.
+
+``` Nabajeet Barman, Steven Schmidt, Saman Zadtootaghaj, and Maria G Martini. 2022. Evaluation of MPEG-5 Part 2 (LCEVC) for Live Gaming Video Streaming Applications. In   Mile   High Video Conference (MHV ’22), March 1–3, 2022, Denver, CO, USA. ACM, New York, NY, USA, 7 pages. https://doi.org/10.1145/3510450.3517279 ```
+
+
 ## Acknowledgement
 
 The authors would like to thank the team at V-Nova, especially Guendalina Cobianchi, Florian Maurer, Lorenzo Ciccarelli, Harry Morgan, Lorenzo Cassina and Simone Ferrara for providing us with the LCEVC SDK releases and help with setting up of the LCEVC encoding commands.
