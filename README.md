@@ -16,9 +16,11 @@ If you are interested, please email Nabajeet Barman (nabajeetbarman4@gmail.com, 
 
 ## Citation
 
-If you found this work useful and use it in your work, please cite the following paper and add a link to this repository in your work.
+If you found this work useful and use it in your work, please cite the following papers and add a link to this repository in your work.
 
-``` Nabajeet Barman, Steven Schmidt, Saman Zadtootaghaj, and Maria G Martini. 2022. Evaluation of MPEG-5 Part 2 (LCEVC) for Live Gaming Video Streaming Applications. In   Mile   High Video Conference (MHV ’22), March 1–3, 2022, Denver, CO, USA. ACM, New York, NY, USA, 7 pages. https://doi.org/10.1145/3510450.3517279 ```
+```N. Barman, S. Schmidt, S. Zadtootaghaj, & M. G. Martini (2022). Codec Compression Efficiency Evaluation of MPEG-5 part 2 (LCEVC) using Objective and Subjective Quality Assessment. ArXiv, abs/2204.05580.```
+
+```Nabajeet Barman, Steven Schmidt, Saman Zadtootaghaj, and Maria G Martini. 2022. Evaluation of MPEG-5 part 2 (LCEVC) for live gaming video streaming applications. In Proceedings of the 1st Mile-High Video Conference (MHV '22). Association for Computing Machinery, New York, NY, USA, 108–109. https://doi.org/10.1145/3510450.3517279 ```
 
 
 ## Acknowledgement
