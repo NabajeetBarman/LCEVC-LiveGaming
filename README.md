@@ -5,7 +5,7 @@ With the increasing advancements in video compression efficiency achieved by new
 ## Download Link:
 
 The dataset is available on a per-request basis. 
-If you are interested, please email Nabajeet Barman (nabajeetbarman4@gmail.com, Nabajeet.Barman@kingston.ac.uk) to obtain further instructions on how to download the dataset.
+If you are interested, please email Nabajeet Barman (n.barman@ieee.org, nabajeetbarman4@gmail.com) or Prof Maria Martini (m.martini@kingston.ac.uk) to obtain further instructions on how to download the dataset.
 
 ## Authors
 
@@ -25,4 +25,4 @@ If you found this work useful and use it in your work, please cite the following
 
 ## Acknowledgement
 
-The authors would like to thank the team at V-Nova, especially Guendalina Cobianchi, Florian Maurer, Lorenzo Ciccarelli, Harry Morgan, Lorenzo Cassina and Simone Ferrara for providing us with the LCEVC SDK releases and help with setting up of the LCEVC encoding commands.
+The authors would like to thank the team at V-Nova, especially Guendalina Cobianchi, Florian Maurer, Lorenzo Ciccarelli, Harry Morgan, Lorenzo Cassina and Simone Ferrara for providing us with the LCEVC SDK releases and help with setting up of the LCEVC encoding commands. Authors would also like to thank Vittorio Baroncini from VABTECH Ltd, Italy for conducting the subjective studies.
